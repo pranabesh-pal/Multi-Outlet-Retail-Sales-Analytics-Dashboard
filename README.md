@@ -60,7 +60,7 @@ The analysis reveals clear differences in performance across **item types, outle
 - **Seafood** performs the weakest with only **$9.08K** in total sales, suggesting low demand or inconsistent availability.
 
 
-![Item Type Performance](images/Item Type Performance.png)  
+![Item Type Performance](images/item_type_performance.png)  
 
  
 ---
@@ -72,7 +72,7 @@ The analysis reveals clear differences in performance across **item types, outle
 - The revenue gap between **Tier 1 and Tier 3** suggests a need for **targeted marketing or inventory adjustments** in **Tier 1 cities**.
 
 
-![Outlet Location Performance](images/Outlet Location Performance.png)  
+![Outlet Location Performance](images/outlet_location_performance.png)  
 
 
 ---
@@ -84,7 +84,7 @@ The analysis reveals clear differences in performance across **item types, outle
 - This pattern reveals that **outlet size doesn’t directly correlate with sales**, **operational strategy and location** matter more.
 
 
-![Outlet Size Performance](images/Outlet Size Performance.png)
+![Outlet Size Performance](images/outlet_size_performance.png)
 
 
 ---
@@ -96,7 +96,7 @@ The analysis reveals clear differences in performance across **item types, outle
 - **Supermarket Type 2** sells the fewest items **(928)**, showing **fewer transactions but higher value per transaction**.
 
 
-![Outlet Type Performance](images/Outlet Type Performance.png)  
+![Outlet Type Performance](images/outlet_type_performance.png)  
 
 
 ---
