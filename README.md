@@ -45,7 +45,8 @@ The analysis reveals clear differences in performance across **item types, outle
 - **Average Rating:** 4.0
 
 
-**Dashboard Preview**  
+**Dashboard Preview**
+
 ![Excel Dashboard](images/Dashboard.png)  
 
 
