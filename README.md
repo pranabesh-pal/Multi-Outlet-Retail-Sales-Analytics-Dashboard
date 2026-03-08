@@ -1,4 +1,4 @@
-# Multi-Outlet Retail Sales Analytics Dashboard
+# Multi-Outlet Grocery Sales Analytics Dashboard
 
 This project analyzes sales data from a fictional multi-outlet retail company operating in the **grocery and FMCG sector**. The organization sells a wide range of everyday consumer items such as fruits, vegetables, household goods, snack foods, and beverages across different outlet types and locations.
 
